@@ -33,7 +33,7 @@ class windArtView extends Ui.View {
     }
 
     function onShow() {
-  		// makeRequest();
+  		makeRequest();
     }
 
     function onUpdate(dc) {
