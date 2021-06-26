@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\artma\eclipse-workspace\windArt\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="3" lineNum="26" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="3" lineNum="27" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="4" lineNum="31" pc="268435479" symbol="onLayout"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="4" lineNum="32" pc="268435483" symbol="onLayout"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="5" lineNum="35" pc="268435521" symbol="onShow"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="39" pc="268435526" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="40" pc="268435530" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="43" pc="268435550" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="44" pc="268435562" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="45" pc="268435598" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="48" pc="268435615" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="49" pc="268435641" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="50" pc="268435671" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="54" pc="268435782" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="55" pc="268435812" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="56" pc="268435848" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="57" pc="268435943" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="58" pc="268435979" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="62" pc="268436088" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="63" pc="268436105" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="64" pc="268436115" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="65" pc="268436125" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="68" pc="268436164" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="70" pc="268436182" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="71" pc="268436186" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="72" pc="268436226" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="74" pc="268436230" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="75" pc="268436266" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="76" pc="268436337" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="79" pc="268436425" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="80" pc="268436465" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="81" pc="268436495" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="82" pc="268436531" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="84" pc="268436582" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="6" lineNum="85" pc="268436618" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="7" lineNum="90" pc="268436670" symbol="onHide"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="94" pc="268436675" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="95" pc="268436679" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="96" pc="268436697" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="97" pc="268436730" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="98" pc="268436757" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="101" pc="268436797" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="103" pc="268436823" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="104" pc="268436858" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="107" pc="268436929" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="109" pc="268436962" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="110" pc="268436981" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="113" pc="268437005" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="114" pc="268437012" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="115" pc="268437019" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="116" pc="268437048" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="117" pc="268437061" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="121" pc="268437074" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="122" pc="268437081" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="123" pc="268437088" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="124" pc="268437117" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="125" pc="268437136" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="130" pc="268437149" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="132" pc="268437218" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="133" pc="268437248" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="134" pc="268437297" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="138" pc="268437347" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="139" pc="268437377" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="140" pc="268437426" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="8" lineNum="143" pc="268437479" symbol="onReceive"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="9" lineNum="146" pc="268437498" symbol="findWindMinMax"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="9" lineNum="148" pc="268437502" symbol="findWindMinMax"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="9" lineNum="149" pc="268437532" symbol="findWindMinMax"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="9" lineNum="150" pc="268437561" symbol="findWindMinMax"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="9" lineNum="152" pc="268437589" symbol="findWindMinMax"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="9" lineNum="153" pc="268437618" symbol="findWindMinMax"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="9" lineNum="156" pc="268437659" symbol="findWindMinMax"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="10" lineNum="161" pc="268437669" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="10" lineNum="162" pc="268437673" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="10" lineNum="163" pc="268437680" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="10" lineNum="167" pc="268437728" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="10" lineNum="168" pc="268437746" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="10" lineNum="12" pc="268438075" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="10" lineNum="16" pc="268438103" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="10" lineNum="17" pc="268438131" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="10" lineNum="21" pc="268438288" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="10" lineNum="22" pc="268438304" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtView.mc" id="10" lineNum="23" pc="268438344" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtApp.mc" id="12" lineNum="13" pc="268437789" symbol="initialize"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtApp.mc" id="12" lineNum="14" pc="268437793" symbol="initialize"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtApp.mc" id="13" lineNum="18" pc="268437812" symbol="onStart"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtApp.mc" id="14" lineNum="23" pc="268437817" symbol="onStop"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtApp.mc" id="15" lineNum="27" pc="268437822" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\artma\\eclipse-workspace\\windArt\\source\\windArtApp.mc" id="15" lineNum="28" pc="268437826" symbol="getInitialView"/>
+        <entry filename="Rez" id="21" lineNum="17" pc="268437869" symbol="MainLayout"/>
+        <entry filename="Rez" id="21" lineNum="19" pc="268437881" symbol="MainLayout"/>
+        <entry filename="Rez" id="21" lineNum="21" pc="268438024" symbol="MainLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="18" symbol="timeDelay"/>
+        <entry id="29" method="true" symbol="MainLayout"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="9" object="true" symbol="windArtView"/>
+        <entry field="true" id="30" symbol="AppName"/>
+        <entry field="true" id="10" symbol="URL"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry field="true" id="20" symbol="tickWind"/>
+        <entry field="true" id="19" symbol="space"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="8389067" symbol="height"/>
+        <entry id="27" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="21" symbol="tickWindScale"/>
+        <entry field="true" id="8389066" symbol="width"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="25" method="true" symbol="makeRequest"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="8388637" module="true" symbol="Communications"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389844" symbol="responseType"/>
+        <entry field="true" id="16" symbol="Yposition"/>
+        <entry field="true" id="22" symbol="windMinMax"/>
+        <entry id="8388786" method="true" symbol="method"/>
+        <entry field="true" id="14" symbol="windCurrent"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="23" method="true" symbol="onReceive"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="11" object="true" symbol="windArtApp"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="28" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="17" symbol="timeTick"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry field="true" id="12" symbol="_message"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="15" symbol="Xposition"/>
+        <entry id="26" module="true" symbol="Layouts"/>
+        <entry field="true" id="13" symbol="wind"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="24" method="true" symbol="findWindMinMax"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435479" name="message" stackId="1" startPc="268435456"/>
+        <entry arg="true" endPc="268435521" name="dc" stackId="1" startPc="268435479"/>
+        <entry endPc="268435782" name="i" stackId="2" startPc="268435671"/>
+        <entry endPc="268436088" name="i" stackId="3" startPc="268435812"/>
+        <entry endPc="268436412" name="tickLastHour" stackId="8" startPc="268436182"/>
+        <entry endPc="268436412" name="tickLastHourPosition" stackId="9" startPc="268436182"/>
+        <entry endPc="268436425" name="i" stackId="7" startPc="268436182"/>
+        <entry endPc="268436579" name="hour" stackId="5" startPc="268435641"/>
+        <entry endPc="268436579" name="windString" stackId="11" startPc="268435641"/>
+        <entry endPc="268436579" name="min" stackId="6" startPc="268435641"/>
+        <entry endPc="268436579" name="windTruncated" stackId="10" startPc="268435641"/>
+        <entry endPc="268436579" name="clockTime" stackId="4" startPc="268435641"/>
+        <entry arg="true" endPc="268436670" name="dc" stackId="1" startPc="268435526"/>
+        <entry endPc="268437347" name="i" stackId="6" startPc="268437248"/>
+        <entry endPc="268437476" name="i" stackId="7" startPc="268437377"/>
+        <entry endPc="268437476" name="scaleZero" stackId="4" startPc="268436823"/>
+        <entry endPc="268437476" name="scaleMax" stackId="5" startPc="268436823"/>
+        <entry endPc="268437476" name="myCounter" stackId="3" startPc="268436823"/>
+        <entry arg="true" endPc="268437498" name="responseCode" stackId="1" startPc="268436675"/>
+        <entry arg="true" endPc="268437498" name="data" stackId="2" startPc="268436675"/>
+        <entry endPc="268437659" name="i" stackId="1" startPc="268437532"/>
+        <entry endPc="268437788" name="options" stackId="2" startPc="268437673"/>
+        <entry endPc="268437788" name="url" stackId="1" startPc="268437673"/>
+        <entry endPc="268437788" name="responseCallback" stackId="3" startPc="268437673"/>
+        <entry arg="true" endPc="268437817" name="state" stackId="1" startPc="268437812"/>
+        <entry arg="true" endPc="268437822" name="state" stackId="1" startPc="268437817"/>
+        <entry endPc="268438041" name="rez_cmp_local_text_message" stackId="2" startPc="268437881"/>
+        <entry arg="true" endPc="268438042" name="dc" stackId="1" startPc="268437869"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/windArtView" offset="158" parentId="globals" symbolId="windArtView" type="class"/>
+        <dataEntry label="globals/Rez" offset="365" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="444" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="483" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="514" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="545" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="584" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="615" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/windArtApp" offset="654" parentId="globals" symbolId="windArtApp" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="windArtView">
+            <param id="message"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="windArtView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="windArtView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="windArtView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="windArtView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onReceive" parent="windArtView">
+            <param id="responseCode"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="findWindMinMax" parent="windArtView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="makeRequest" parent="windArtView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="windArtApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="windArtApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="windArtApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="windArtApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
